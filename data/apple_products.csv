@@ -1,0 +1,94 @@
+product_id,category_id,name,base_price,created_at,description
+a001,1001,Apple iPhone 16,799,2024-01-01,"The iPhone 16 is a powerhouse of innovation and performance, designed to elevate your smartphone experience. It features the new A18 chip, which delivers a significant boost in performance and efficiency, enabling seamless multitasking and high-end gaming. The 48MP Fusion camera combines two optical-quality cameras in one, offering stunning high-resolution photos and a 2x telephoto option for detailed zoom. The Ultra Wide camera enables macro photography, perfect for capturing intricate details.
+
+The iPhone 16 boasts Camera Control, a dedicated button that allows quick access to camera settings, zooming, and capturing photos and videos with ease. The 6.1-inch display size provides a gorgeous, immersive viewing experience, while the new Photographic Styles let you personalize your images. With Apple Intelligence, the phone understands personal context to deliver helpful and relevant information while maintaining user privacy.
+
+The battery life has seen a significant improvement, ensuring you stay connected longer. Available in five bold colors—black, white, pink, teal, and ultramarine—the iPhone 16 combines a durable design with cutting-edge technology, making it the perfect upgrade for any user.
+
+Display: 6.1-inch Super Retina XDR OLED, 2556 x 1179 pixels
+
+Camera: Dual 48 MP (wide) + 12 MP (ultrawide), Night mode, Deep Fusion, Photonic Engine
+
+Processor: Apple A18 chip with 6-core CPU and 5-core GPU
+
+Battery Life: Up to 1 day with typical usage
+
+Other Features: IP68 water and dust resistance, Ceramic Shield front cover, Dynamic Island, color options (Black, White, Pink, Teal, Ultramarine)"
+a002,1001,Apple iPhone 16 Plus,1999,2024-01-01,"The iPhone 16 Plus stands out with its expansive 6.7-inch Super Retina XDR OLED display, delivering stunning visuals with a resolution of 2796 x 1290 pixels. It's perfect for immersive media consumption, offering vibrant colors and deep blacks. The Apple A18 chip powers the device, ensuring smooth performance for multitasking, gaming, and demanding applications.
+
+Photography enthusiasts will appreciate the dual camera system, featuring a 48 MP wide and a 12 MP ultra-wide lens. This setup, combined with Night mode, Deep Fusion, and the Photonic Engine, captures detailed and vivid photos in any lighting condition. The Camera Control button provides quick access to essential camera settings, making it easier than ever to snap the perfect shot.
+
+The iPhone 16 Plus also excels in battery life, offering up to 2 days of typical usage on a single charge. This means more time capturing moments, watching videos, and staying connected without constantly searching for a charger. Its durable build includes IP68 water and dust resistance and a Ceramic Shield front cover, ensuring longevity and durability.
+
+Available in stylish color options—Black, White, Pink, Teal, and Ultramarine—the iPhone 16 Plus combines cutting-edge technology with a sleek design, making it an ideal choice for users seeking a premium smartphone experience.
+
+Display: 6.7-inch Super Retina XDR OLED, 2796 x 1290 pixels
+
+Camera: Dual 48 MP (wide) + 12 MP (ultrawide), Night mode, Deep Fusion, Photonic Engine
+
+Processor: Apple A18 chip with 6-core CPU and 5-core GPU
+
+Battery Life: Up to 2 days with typical usage
+
+Other Features: IP68 water and dust resistance, Ceramic Shield front cover, color options (Black, White, Pink, Teal, Ultramarine)"
+a003,1001,Apple iPhone 16 Pro,,2024-01-01,"The iPhone 16 Pro is designed for those seeking the pinnacle of smartphone technology. It features a 6.1-inch Super Retina XDR OLED display with a resolution of 2556 x 1179 pixels, offering an immersive and vibrant visual experience. The Apple A18 chip ensures exceptional performance, allowing for fluid multitasking, intense gaming, and efficient power usage.
+
+One of the standout features of the iPhone 16 Pro is its triple-camera system. This includes a 48 MP wide, 12 MP telephoto, and 12 MP ultra-wide lens, providing incredible flexibility for photography and videography. The Pro model supports ProRAW and ProRes video recording, making it a powerful tool for creators. Enhanced features like Night mode, Deep Fusion, and the Photonic Engine ensure stunning photos and videos, regardless of lighting conditions.
+
+The Dynamic Island feature offers an innovative way to interact with notifications and live activities, enhancing the user experience. The iPhone 16 Pro also boasts IP68 water and dust resistance and a Ceramic Shield front cover, ensuring durability.
+
+Available in sophisticated color options—Black, White, Pink, Teal, and Ultramarine—the iPhone 16 Pro combines advanced technology, superior performance, and a sleek design, making it the ultimate choice for users who demand the best in their smartphones.
+
+Display: 6.1-inch Super Retina XDR OLED, 2556 x 1179 pixels
+
+Camera: Triple 48 MP (wide) + 12 MP (telephoto) + 12 MP (ultrawide), ProRAW, ProRes video recording, Night mode, Deep Fusion, Photonic Engine
+
+Processor: Apple A18 chip with 6-core CPU and 5-core GPU
+
+Battery Life: Up to 1 day with typical usage
+
+Other Features: IP68 water and dust resistance, Ceramic Shield front cover, Dynamic Island, color options (Black, White, Pink, Teal, Ultramarine)"
+a004,1002,Apple MacBook Pro,,,"The MacBook Pro is designed for professionals who demand top-tier performance and efficiency. It features a 14-inch Liquid Retina XDR display with a resolution of 3024 x 1964 pixels, offering stunning visuals with a 1,000,000:1 contrast ratio. Powered by the Apple M4 chip, it delivers exceptional performance with a 10-core CPU and 16-core Neural Engine. The MacBook Pro supports ProRes video editing, hardware-accelerated ray tracing, and a nano-texture display to minimize glare. With up to 24 hours of battery life, it's perfect for long workdays. The MacBook Pro also includes Thunderbolt 4 ports, an SD card slot, and MagSafe 3 charging
+
+Models: 14-inch and 16-inch
+
+Chips: Apple M4, M4 Pro, and M4 Max
+
+Display: Liquid Retina XDR display (14.2-inch or 16-inch)
+
+Memory: 16GB, 24GB, 32GB, 36GB, 48GB, 64GB, 128GB
+
+Storage: 512GB, 1TB, 2TB, 4TB, 8TB
+
+Battery Life: Up to 22 hours video streaming (M4 Pro), up to 18 hours video streaming (M4 Max)
+
+Ports: USB-C, Thunderbolt, HDMI, SD card slot, MagSafe 3
+"
+a005,1002,Apple MacBook Air,,,"The MacBook Air is the perfect blend of portability and performance. It features a 13-inch Liquid Retina display with a resolution of 2560 x 1664 pixels, providing vibrant and sharp visuals. Equipped with the Apple M4 chip, it offers a 10-core CPU and 16-core Neural Engine, ensuring smooth multitasking and efficient power usage. The MacBook Air includes 16GB of unified memory and 512GB SSD storage, making it ideal for everyday tasks. With a sleek and lightweight design, it's easy to carry around, and it boasts an impressive up to 18 hours of battery life.
+
+Model: 13-inch
+
+Chip: Apple M2
+
+Display: Retina display (13.6-inch)
+
+Memory: 8GB, 16GB
+
+Storage: 256GB, 512GB, 1TB, 2TB
+
+Battery Life: Up to 18 hours wireless web
+
+Ports: USB-C, MagSafe 3"
+a006,1003,Apple Mac Mini,,,"The Mac Mini is a compact powerhouse, perfect for users who need a small yet capable machine. It features a 13.6-inch Liquid Retina display with a resolution of 2560 x 1664 pixels, offering clear and vibrant visuals. Powered by the Apple M4 chip, it includes a 10-core CPU and 16-core Neural Engine, providing excellent performance for everyday tasks. The Mac Mini comes with 16GB of unified memory and 512GB SSD storage, ensuring fast and responsive performance. Its compact size makes it easy to carry around, and it offers up to 15 hours of battery life.
+
+Specifications:
+
+Chip: Apple M4
+
+Memory: 8GB, 16GB
+
+Storage: 256GB, 512GB, 1TB, 2TB
+
+Battery Life: Up to 15 hours wireless web
+
+Ports: USB-C, HDMI, SD card slot, Ethernet, MagSafe 3"
