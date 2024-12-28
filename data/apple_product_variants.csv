@@ -1,4 +1,4 @@
-vriant_id,product_id,color,size,memory,storage,additional_price,sku
+variant_id,product_id,color,size,memory,storage,additional_price,sku
 1100101,11001,Black,6.1 inch,8GB,128GB,0,IP16-BLK-128
 1100102,11001,Black,6.1 inch,8GB,256GB,100,IP16-BLK-256
 1100103,11001,Black,6.1 inch,8GB,512GB,200,IP16-BLK-512
